@@ -1,0 +1,7 @@
+var extraMargin=0;
+$(document).ready(function(){});
+$(window).bind("load",function(){});
+function 
+adjustTextAreaHeight(id){if($("#"+id).length>0)
+{var height=$("#"+id)[0].scrollHeight+extraMargin;
+$("#"+id).height(height)}};

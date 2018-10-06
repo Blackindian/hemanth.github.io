@@ -1,0 +1,79 @@
+#login-modal{margin-top:50px}
+#login-modal .modal-dialog .modal-content{background:#f7f7f7;
+	max-width:390px;
+	margin:auto;
+	border:1px solid #dbdbdb}
+	#login-modal .modal-dialog .modal-content .modal-header{border:none;
+		padding:8px 10px 0}
+		#login-modal .modal-dialog .modal-content .modal-body{padding:0 25px 15px}
+		#login-modal .modal-dialog .modal-content .modal-body 
+		#user-menu-container{text-align:center}
+		#login-modal .modal-dialog .modal-content .modal-body 
+		#user-menu-container 
+		#user-menu{max-width:600px;
+			display:inline-block;
+			width:100%}
+			#login-modal .modal-dialog .modal-content .modal-body 
+			#user-menu-container 
+			#user-menu .user-menu-item{font-size:15px;
+				display:inline-block;
+		font-family:'Open Sans';font-style:normal;
+		font-weight:600;cursor:pointer}
+		#login-modal .modal-dialog .modal-content .modal-body 
+		#user-menu-container 
+		#user-menu .user-menu-item.active{border-bottom:2px solid #1295c9;
+		padding-bottom:10px}
+		#login-modal .modal-dialog .modal-content .modal-body 
+		#user-menu-container 
+		#user-menu .user-menu-item.active.login_student{color:#1295c9}
+			#login-modal .modal-dialog .modal-content .modal-body 
+			#user-menu-container 
+		#user-menu .user-menu-item.active.login_employer{color:#1295c9}
+		#login-modal .modal-dialog .modal-content .modal-body .google_login{text-decoration:none;
+		color:#575757;
+		font-weight:600;
+		font-size:15px}
+		#login-modal .modal-dialog .modal-content .modal-body .google_login 
+		#google-button-container{background:#fff;
+		border-radius:2px;
+		border:1px solid #dbdbdb;
+		display:flex;
+		flex-direction:row;
+		justify-content:center;
+		padding:7px 10px;
+		margin:15px 0 5px}
+		#login-modal .modal-dialog .modal-content .modal-body .google_login 
+		#google-button-container .google_content{padding:0 10px}
+		#login-modal .modal-dialog .modal-content .modal-body .helper{text-align:center}
+		#login-modal .modal-dialog .modal-content .modal-body .helper .text2{color:#999;
+		padding:5px 0 5px 0;
+		background:#f7f7f7}
+		#login-modal .modal-dialog .modal-content .modal-body .helper .text2 p{color:#999;
+		width:40px;
+		margin:0 auto !important;
+		position:relative;
+		z-index:10;
+		background:#f7f7f7}
+		#login-modal .modal-dialog .modal-content .modal-body .helper .border{position:relative;
+		margin-top:-14px;
+		margin-bottom:12px;
+		border:0;border-top:1px solid #ccc}
+		#login-modal .modal-dialog .modal-content .modal-body 
+		#modal-login-form{margin-top:15px;
+		font-size:14px}
+		#login-modal .modal-dialog .modal-content .modal-body 
+		#modal-login-form .form-group{margin-bottom:10px}
+		#login-modal .modal-dialog .modal-content .modal-body 
+		#modal-login-form .form-group label{font-size:14px;
+		margin-bottom:5px !important;
+		font-weight:600}
+		#login-modal .modal-dialog .modal-content .modal-body 
+		#modal-login-form .form-group input{border-radius:4px !important}											#login-modal .modal-dialog .modal-content .modal-body 
+		#modal-login-form .form-group button{width:100%;
+		margin:8px 0;
+	    border-radius:2px !important}
+		#login-modal .modal-dialog .modal-content .modal-body 
+		#modal-login-form .new_to_internshala{text-align:center}
+		#login-modal .modal-dialog .modal-content .modal-body 
+		#modal-login-form .forgot_password{font-size:12px;
+		text-align:right}
